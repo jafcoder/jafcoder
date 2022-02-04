@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Joseph (Joe) and I am a full stack developer learning with the [School of Code](https://www.schoolofcode.co.uk/)!
+
+
+
+
+
 <!--
 **jafcoder/jafcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
