@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm Joseph (Joe) and I am a full stack developer learning with the [School of Code](https://www.schoolofcode.co.uk/)!
+I'm Joseph (Joe) and I am a full stack developer looking for my first position within the tech industry!
 
+---
 
 
 
